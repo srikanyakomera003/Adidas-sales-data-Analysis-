@@ -70,11 +70,7 @@ Adidas-Sales-Data-Analysis/
 ├── README.md              # Project readme file
 ├── requirements.txt       # Python dependencies
 
-Installation
-
-1. Clone the repository:
-
-git clone https://github.com/yourusername/Adidas-Sales-Data-Analysis.git
+1)Installation
 
 
 2. Navigate to the project directory:
